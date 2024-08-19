@@ -8,3 +8,4 @@ dict = {
 word=input("enter the word to search : ")
 
 print(dict[word])
+
