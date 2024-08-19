@@ -1,8 +1,7 @@
 import tkinter as tk
 from time import strftime
 root=tk.Tk()
-root.title("hello world")
-root.t
+root.title("BISWAJIT DAS")
 def time():
     string = strftime('%H:%M:%S %p \n %D')
     label.config(text=string)
