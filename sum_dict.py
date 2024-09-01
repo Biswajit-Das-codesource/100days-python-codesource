@@ -5,6 +5,5 @@ dict={
    "number3":30,
    "number4":40,
    "number5":50
-   
 }
 print(sum(dict.values()))
