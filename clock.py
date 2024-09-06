@@ -1,4 +1,9 @@
+'''
+    Wap to display the current date and time using tkinter module
+    
+'''
 import tkinter as tk
+
 from time import strftime
 root=tk.Tk()
 root.title("BISWAJIT DAS")
