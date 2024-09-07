@@ -6,7 +6,7 @@
 
 Dive into my repository where you'll find every question and solution from this journey of mastering Python.<br><br>
 
-Here you get all the python problematic qustion of list,dict,loop,sets<br>
-100 Days of Python: A Journey of Problem Solving and Growth 💻🚀 From mastering algorithms to tackling real-world challenges, <br>
-every day brought new learnings. Ready to take on the next 100!
+Here you get all the python problematic qustion of list,dict,loop,sets<br><br>
+100 Days of Python: A Journey of Problem Solving and Growth 💻🚀 From mastering algorithms to tackling real-world challenges, <br><br>
+every day brought new learnings. Ready to take on the next 100!<br>
 Let’s keep coding! #100DaysOfCode #Python #ProblemSolving #CodeRepository #TechJourney
